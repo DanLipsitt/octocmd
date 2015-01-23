@@ -11,7 +11,7 @@ class my_install(install):
 
 s = setup(
     name="octocmd", 
-    version='0.1',
+    version='0.1.1',
     author='Giles Hall', 
     author_email="giles@polymerase.org",
     url='https://github.com/vishnubob/octocmd',
